@@ -1,4 +1,4 @@
-![Abhinandan Trilokia](name_link)
+![Pavanraj Ghadage](https://github.com/PavanrajGhadage/PavanrajDhadage/blob/main/pavan.svg)
 
 <p align="center">
 Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something for improving lives of people
@@ -26,6 +26,6 @@ ra
 
 </p>
 
-![Abhinandan Trilokia](footer_link)
+![Pavanraj Ghadage](https://github.com/PavanrajGhadage/PavanrajDhadage/blob/main/bottom_header.svg)
 <br>
 </p>
